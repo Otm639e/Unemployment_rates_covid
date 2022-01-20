@@ -1,4 +1,5 @@
 # Unemployment_rates_covid
+A UC Berkeley Project done for For Data 100 Fall 2021
 
 Seeing Covid-19 data and its correlation with Unemployment rates throughout counties in the U.S.
 
